@@ -29,3 +29,4 @@ Event Sourcing Big Data Kafka Cloud Sharding Quantum Computing UX Optimization P
 Deployment Agile Version Control Zero Downtime Deployment Content Delivery Network Cache Invalidation Multi-threading WebSockets Serverless
 Work hard in silence, let your success be your noise. Event-driven Architecture DNS Routing A/B Testing Firewalls Docker
 Virtual Machines OAuth Database Indexing Load Balancing Monitoring API Serverless
+Lambda Functions JavaScript Monitoring Automation Stay hungry, stay foolish. A/B Testing Container Orchestration Server Response Do what you love and the money will follow. API Gateway
