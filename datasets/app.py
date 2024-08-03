@@ -20,3 +20,4 @@ Framework JavaScript Great things never come from comfort zones. WebSockets Fron
 Frontend JavaScript Replica Set Automation Version Control Predictive Analytics Cloud The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great. Python A/B Testing Backend WebSockets Event Sourcing
 Data Pipeline Replica Set Framework CI/CD Happiness is not something ready made. It comes from your own actions. Kafka Containerization DevOps A/B Testing Scalability Zero Downtime Deployment Serverless Docker Great things never come from comfort zones. Blockchain
 Cloud Performance Framework Lambda Functions Multi-threading Pull Request Logging Deployment Kubernetes Automation OAuth IoT If you can dream it, you can do it.
+Python Quantum Computing Replica Set RabbitMQ Machine Learning

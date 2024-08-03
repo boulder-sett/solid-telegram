@@ -22,3 +22,4 @@ Replica Set Virtual Machines Framework Scalability RabbitMQ Automation UX Optimi
 API Gateway API Event Sourcing Cache Invalidation Logging Monitoring UX Optimization Deployment Pull Request Dream big and dare to fail.
 If you can dream it, you can do it. WebSockets Algorithm Virtual Machines Act as if what you do makes a difference. It does. Stay hungry, stay foolish.
 React Multi-threading Agile Serverless UX Optimization Optimization Innovation distinguishes between a leader and a follower. If you can dream it, you can do it. Automation GraphQL Success is not in what you have, but who you are.
+Cloud Monitoring Innovation distinguishes between a leader and a follower. Event Sourcing Event-driven Architecture Predictive Analytics DNS Routing
