@@ -29,3 +29,4 @@ Monitoring Dream big and dare to fail. Multi-threading Replica Set API Serverles
 Lambda Functions Scalability Kafka Distributed Systems Docker API Gateway IoT Opportunities don't happen. You create them. Deployment
 Event-driven Architecture Sharding Code Review Deployment Edge Computing IoT Pull Request Backend Logging Kafka
 Lambda Functions Neural Networks Event Sourcing Container Orchestration Monitoring Automation Data Pipeline JWT Predictive Analytics
+Predictive Analytics Kubernetes Sharding Database Indexing Work hard in silence, let your success be your noise. API Gateway
