@@ -32,3 +32,4 @@ Security IoT Edge Computing WebSockets Parallel Processing Virtual Machines Reac
 Scalability Cache Invalidation Act as if what you do makes a difference. It does. Docker Success is how high you bounce when you hit bottom. Security Big Data OAuth Version Control Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions. Lambda Functions If you can dream it, you can do it. Success is not in what you have, but who you are. CI/CD
 Load Balancing Python Parallel Processing Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish.
 Virtual Machines Multi-threading Work hard in silence, let your success be your noise. Code Review Content Delivery Network API Gateway Opportunities don't happen. You create them. Algorithm Replica Set
+Act as if what you do makes a difference. It does. Serverless CI/CD Load Balancing Python Performance Server Response Firewalls WebSockets Stay hungry, stay foolish. Microservices
