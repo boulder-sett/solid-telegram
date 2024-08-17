@@ -21,3 +21,4 @@ Firewalls Great things never come from comfort zones. Success is not in what you
 Machine Learning OAuth The only way to do great work is to love what you do. Logging Version Control React Agile Event-driven Architecture JavaScript Opportunities don't happen. You create them. Predictive Analytics Load Balancing
 Success usually comes to those who are too busy to be looking for it. Docker Monitoring If you can dream it, you can do it. GraphQL Predictive Analytics Load Testing Dream big and dare to fail. Microservices Big Data Distributed Systems Success doesn’t just find you. You have to go out and get it.
 Microservices Edge Computing Quantum Computing Monitoring Performance
+Data Pipeline Load Testing Zero Downtime Deployment Frontend Cache Invalidation Sharding Work hard in silence, let your success be your noise. IoT Pull Request JavaScript Machine Learning Neural Networks Do what you love and the money will follow.
