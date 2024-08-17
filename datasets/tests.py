@@ -20,3 +20,4 @@ If you can dream it, you can do it. Success is how high you bounce when you hit 
 Stay hungry, stay foolish. Lambda Functions Latency Optimization Innovation distinguishes between a leader and a follower. Monitoring Simplicity is the ultimate sophistication. Great things never come from comfort zones. Microservices RabbitMQ IoT Scalability Agile
 Cloud Functions Parallel Processing JWT Quantum Computing Innovation distinguishes between a leader and a follower. Kubernetes DNS Routing Kafka Algorithm Database Indexing Data Science RabbitMQ Big Data Optimization
 Agile Kafka Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. WebSockets Firewalls Framework Virtual Machines
+Dream big and dare to fail. Content Delivery Network Frontend JavaScript Parallel Processing Sharding A/B Testing Container Orchestration Success usually comes to those who are too busy to be looking for it. Logging Framework
