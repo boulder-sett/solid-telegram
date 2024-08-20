@@ -28,3 +28,4 @@ Machine Learning JWT The only way to do great work is to love what you do. A/B T
 Monitoring Dream big and dare to fail. Multi-threading Replica Set API Serverless Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. Scalability UX Optimization Deployment Load Balancing Load Testing Message Queue
 Lambda Functions Scalability Kafka Distributed Systems Docker API Gateway IoT Opportunities don't happen. You create them. Deployment
 Event-driven Architecture Sharding Code Review Deployment Edge Computing IoT Pull Request Backend Logging Kafka
+Lambda Functions Neural Networks Event Sourcing Container Orchestration Monitoring Automation Data Pipeline JWT Predictive Analytics
