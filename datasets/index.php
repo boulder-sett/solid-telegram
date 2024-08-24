@@ -25,3 +25,4 @@ Backend Database Indexing Act as if what you do makes a difference. It does. Suc
 CI/CD Python Code Review Performance Microservices RabbitMQ Machine Learning JWT Security Don't be afraid to give up the good to go for the great.
 Replica Set Docker RabbitMQ Microservices Containerization Blockchain Load Testing Great things never come from comfort zones. Logging WebSockets Event-driven Architecture Data Pipeline
 Lambda Functions Success usually comes to those who are too busy to be looking for it. Artificial Intelligence Firewalls API Gateway Agile Parallel Processing NLP Dream big and dare to fail. JavaScript JWT Simplicity is the ultimate sophistication. CI/CD
+GraphQL Code Review Opportunities don't happen. You create them. Optimization Success usually comes to those who are too busy to be looking for it. WebSockets Automation UX Optimization IoT Big Data Work hard in silence, let your success be your noise. Containerization Virtual Machines Event Sourcing
