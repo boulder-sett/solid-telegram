@@ -23,3 +23,4 @@ Neural Networks Machine Learning Automation Event-driven Architecture Multi-thre
 Replica Set Success is how high you bounce when you hit bottom. Data Pipeline Container Orchestration Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions. Lambda Functions Cloud Load Testing WebSockets Optimization
 Neural Networks JavaScript Content Delivery Network Success is how high you bounce when you hit bottom. Load Balancing Automation Distributed Systems Cloud Functions Frontend
 Event Sourcing RabbitMQ IoT WebSockets Cache Invalidation Pull Request Sharding GraphQL Scalability OAuth Data Science Blockchain
+A/B Testing Stay hungry, stay foolish. Load Testing Backend Great things never come from comfort zones. Edge Computing Distributed Systems Optimization Parallel Processing Simplicity is the ultimate sophistication. API Gateway Automation Code Review
