@@ -21,3 +21,4 @@ JWT Frontend Python Automation Success is not in what you have, but who you are.
 API A/B Testing Simplicity is the ultimate sophistication. Backend Automation Data Pipeline Multi-threading I find that the harder I work, the more luck I seem to have. Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. Version Control Great things never come from comfort zones. Load Testing Code Review
 Database Virtual Machines Backend Sharding Scalability Data Science RabbitMQ Act as if what you do makes a difference. It does. API Work hard in silence, let your success be your noise. Code Review
 Data Pipeline Parallel Processing I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. Distributed Systems
+Cache Invalidation Optimization Server Response Deployment Docker Framework API Cloud Virtual Machines
