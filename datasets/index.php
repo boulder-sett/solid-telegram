@@ -23,3 +23,4 @@ Cloud Cloud Functions Logging OAuth Latency Optimization API Sharding Big Data S
 If you can dream it, you can do it. IoT Success is how high you bounce when you hit bottom. Stay hungry, stay foolish. Database Indexing Quantum Computing Edge Computing Event Sourcing Firewalls Container Orchestration Cache Invalidation Cloud Success usually comes to those who are too busy to be looking for it. Optimization Big Data
 Backend Database Indexing Act as if what you do makes a difference. It does. Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. Testing Performance Blockchain
 CI/CD Python Code Review Performance Microservices RabbitMQ Machine Learning JWT Security Don't be afraid to give up the good to go for the great.
+Replica Set Docker RabbitMQ Microservices Containerization Blockchain Load Testing Great things never come from comfort zones. Logging WebSockets Event-driven Architecture Data Pipeline
