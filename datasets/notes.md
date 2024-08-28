@@ -20,3 +20,4 @@ Server Response Big Data Database Innovation distinguishes between a leader and 
 Firewalls Great things never come from comfort zones. Success is not in what you have, but who you are. Docker NLP Distributed Systems Version Control Virtual Machines IoT Don't be afraid to give up the good to go for the great. Kubernetes Deployment Logging
 Machine Learning OAuth The only way to do great work is to love what you do. Logging Version Control React Agile Event-driven Architecture JavaScript Opportunities don't happen. You create them. Predictive Analytics Load Balancing
 Success usually comes to those who are too busy to be looking for it. Docker Monitoring If you can dream it, you can do it. GraphQL Predictive Analytics Load Testing Dream big and dare to fail. Microservices Big Data Distributed Systems Success doesn’t just find you. You have to go out and get it.
+Microservices Edge Computing Quantum Computing Monitoring Performance
