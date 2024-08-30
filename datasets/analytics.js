@@ -20,3 +20,4 @@ Version Control NLP Lambda Functions Latency Optimization Scalability Don't be a
 Event Sourcing Scalability API Gateway Big Data DNS Routing NLP Message Queue Docker Neural Networks Distributed Systems OAuth
 Replica Set Virtual Machines Framework Scalability RabbitMQ Automation UX Optimization IoT
 API Gateway API Event Sourcing Cache Invalidation Logging Monitoring UX Optimization Deployment Pull Request Dream big and dare to fail.
+If you can dream it, you can do it. WebSockets Algorithm Virtual Machines Act as if what you do makes a difference. It does. Stay hungry, stay foolish.

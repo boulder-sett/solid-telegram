@@ -21,3 +21,4 @@ Stay hungry, stay foolish. Don't be afraid to give up the good to go for the gre
 Performance Blockchain Server Response JavaScript JWT Success is not in what you have, but who you are.
 Do what you love and the money will follow. OAuth A/B Testing Neural Networks Scalability
 Innovation distinguishes between a leader and a follower. DNS Routing Data Pipeline Opportunities don't happen. You create them. Stay hungry, stay foolish. RabbitMQ Frontend Framework Python IoT Distributed Systems Version Control Load Testing CI/CD Database
+Content Delivery Network Great things never come from comfort zones. Innovation distinguishes between a leader and a follower. Load Testing Containerization Predictive Analytics Pull Request JavaScript
