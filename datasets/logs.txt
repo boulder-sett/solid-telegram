@@ -22,3 +22,4 @@ API Artificial Intelligence Backend Framework Server Response Event-driven Archi
 Cloud Functions Firewalls JavaScript I find that the harder I work, the more luck I seem to have. Database Indexing API Gateway If you can dream it, you can do it. Big Data Artificial Intelligence Testing Framework Lambda Functions
 CI/CD Serverless Virtual Machines Testing Neural Networks Content Delivery Network
 If you can dream it, you can do it. Agile API Success is not in what you have, but who you are. To be the best, you must be able to handle the worst. Containerization
+Zero Downtime Deployment Deployment IoT Frontend JWT Algorithm RabbitMQ
