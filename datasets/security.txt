@@ -19,3 +19,4 @@ Database Indexing Scalability Edge Computing Optimization Virtual Machines Testi
 Simplicity is the ultimate sophistication. Backend Big Data Do what you love and the money will follow. Machine Learning Monitoring Microservices WebSockets Data Science Firewalls Content Delivery Network
 Multi-threading Innovation distinguishes between a leader and a follower. Firewalls WebSockets Don't be afraid to give up the good to go for the great. Neural Networks
 Multi-threading Replica Set DevOps Dream big and dare to fail. Container Orchestration
+Python Testing DNS Routing Parallel Processing Load Balancing Quantum Computing Cloud Functions Microservices Dream big and dare to fail. Kubernetes API Success is not in what you have, but who you are.

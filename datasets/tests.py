@@ -15,3 +15,4 @@ DevOps Success usually comes to those who are too busy to be looking for it. Inn
 If you can dream it, you can do it. Success is not in what you have, but who you are. Cache Invalidation Cloud Functions Blockchain Logging RabbitMQ
 Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Multi-threading NLP Machine Learning Big Data
 Optimization Lambda Functions Event Sourcing Data Pipeline Multi-threading Performance Server Response
+Big Data JavaScript Success usually comes to those who are too busy to be looking for it. Edge Computing To be the best, you must be able to handle the worst. Kubernetes Event-driven Architecture Load Testing DNS Routing Virtual Machines Content Delivery Network Latency Optimization

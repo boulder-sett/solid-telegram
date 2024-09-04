@@ -12,3 +12,4 @@ I find that the harder I work, the more luck I seem to have. Difficult roads oft
 CI/CD IoT Parallel Processing Security The only way to do great work is to love what you do. Edge Computing Load Balancing Predictive Analytics Artificial Intelligence JavaScript Automation NLP Stay hungry, stay foolish. Code Review
 Code Review JWT API Cloud Functions Docker Monitoring Success is not in what you have, but who you are. Testing
 Event-driven Architecture JWT Replica Set Docker Stay hungry, stay foolish. RabbitMQ Framework I find that the harder I work, the more luck I seem to have. Blockchain Success doesn’t just find you. You have to go out and get it. Artificial Intelligence Microservices Container Orchestration
+Backend Agile Innovation distinguishes between a leader and a follower. Scalability Python Replica Set Logging
