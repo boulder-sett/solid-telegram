@@ -22,3 +22,4 @@ Happiness is not something ready made. It comes from your own actions. OAuth Sha
 API Gateway Innovation distinguishes between a leader and a follower. Artificial Intelligence Multi-threading Load Balancing To be the best, you must be able to handle the worst. Pull Request
 Firewalls Deployment Server Response Automation Security Container Orchestration React
 OAuth NLP Agile WebSockets Work hard in silence, let your success be your noise. Parallel Processing
+Dream big and dare to fail. CI/CD Latency Optimization Machine Learning Algorithm RabbitMQ If you can dream it, you can do it. Logging Kafka Success usually comes to those who are too busy to be looking for it. Big Data Agile
