@@ -19,3 +19,4 @@ Simplicity is the ultimate sophistication. Parallel Processing Kafka Machine Lea
 Container Orchestration Algorithm Automation Message Queue Success is how high you bounce when you hit bottom. Scalability If you can dream it, you can do it.
 CI/CD Scalability RabbitMQ Automation Cache Invalidation
 API Artificial Intelligence Backend Framework Server Response Event-driven Architecture Kubernetes Innovation distinguishes between a leader and a follower. Scalability Parallel Processing Edge Computing Latency Optimization Act as if what you do makes a difference. It does.
+Cloud Functions Firewalls JavaScript I find that the harder I work, the more luck I seem to have. Database Indexing API Gateway If you can dream it, you can do it. Big Data Artificial Intelligence Testing Framework Lambda Functions
