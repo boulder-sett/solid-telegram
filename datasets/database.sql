@@ -26,3 +26,4 @@ JWT Quantum Computing The only way to do great work is to love what you do. Moni
 JWT A/B Testing Serverless Distributed Systems JavaScript
 Machine Learning JWT The only way to do great work is to love what you do. A/B Testing Success usually comes to those who are too busy to be looking for it. React Work hard in silence, let your success be your noise. Server Response Sharding Virtual Machines
 Monitoring Dream big and dare to fail. Multi-threading Replica Set API Serverless Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. Scalability UX Optimization Deployment Load Balancing Load Testing Message Queue
+Lambda Functions Scalability Kafka Distributed Systems Docker API Gateway IoT Opportunities don't happen. You create them. Deployment
