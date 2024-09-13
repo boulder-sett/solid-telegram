@@ -28,3 +28,4 @@ Innovation distinguishes between a leader and a follower. Cloud Functions Neural
 Simplicity is the ultimate sophistication. Code Review If you can dream it, you can do it. Logging Do what you love and the money will follow. UX Optimization Success is how high you bounce when you hit bottom.
 Containerization Cloud Sharding Scalability Load Balancing The only way to do great work is to love what you do. Microservices
 Difficult roads often lead to beautiful destinations. Replica Set Quantum Computing Success is not in what you have, but who you are. Predictive Analytics Machine Learning CI/CD To be the best, you must be able to handle the worst.
+Security Kubernetes Don't be afraid to give up the good to go for the great. Framework Edge Computing Lambda Functions DevOps Automation API Gateway Data Pipeline

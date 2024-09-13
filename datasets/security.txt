@@ -16,3 +16,4 @@ IoT Database NLP Content Delivery Network A/B Testing Python Innovation distingu
 Deployment CI/CD Success is how high you bounce when you hit bottom. Frontend Great things never come from comfort zones. JavaScript React
 Success is not in what you have, but who you are. Cloud Functions Database Indexing Difficult roads often lead to beautiful destinations. Containerization
 Database Indexing Scalability Edge Computing Optimization Virtual Machines Testing
+Simplicity is the ultimate sophistication. Backend Big Data Do what you love and the money will follow. Machine Learning Monitoring Microservices WebSockets Data Science Firewalls Content Delivery Network
