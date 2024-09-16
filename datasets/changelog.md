@@ -27,3 +27,4 @@ Don't be afraid to give up the good to go for the great. Difficult roads often l
 Docker DNS Routing Dream big and dare to fail. Cache Invalidation NLP
 Cache Invalidation Framework Distributed Systems Edge Computing API Event-driven Architecture CI/CD Virtual Machines Pull Request Container Orchestration Testing Lambda Functions Dream big and dare to fail. DNS Routing Artificial Intelligence
 Edge Computing Message Queue Great things never come from comfort zones. Automation DNS Routing Success usually comes to those who are too busy to be looking for it. Distributed Systems Algorithm Cloud
+GraphQL Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. NLP CI/CD Backend Blockchain Algorithm Message Queue Edge Computing Virtual Machines Happiness is not something ready made. It comes from your own actions.

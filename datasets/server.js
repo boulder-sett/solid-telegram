@@ -21,3 +21,4 @@ Cache Invalidation Innovation distinguishes between a leader and a follower. I f
 Happiness is not something ready made. It comes from your own actions. OAuth Sharding Automation Agile Load Balancing
 API Gateway Innovation distinguishes between a leader and a follower. Artificial Intelligence Multi-threading Load Balancing To be the best, you must be able to handle the worst. Pull Request
 Firewalls Deployment Server Response Automation Security Container Orchestration React
+OAuth NLP Agile WebSockets Work hard in silence, let your success be your noise. Parallel Processing
