@@ -24,3 +24,4 @@ Virtual Machines Success doesn’t just find you. You have to go out and get it. L
 Big Data The only way to do great work is to love what you do. Security Stay hungry, stay foolish. Predictive Analytics Multi-threading Server Response
 JWT Quantum Computing The only way to do great work is to love what you do. Monitoring Latency Optimization Container Orchestration Edge Computing Logging OAuth Serverless JavaScript Machine Learning Scalability Don't be afraid to give up the good to go for the great. Sharding
 JWT A/B Testing Serverless Distributed Systems JavaScript
+Machine Learning JWT The only way to do great work is to love what you do. A/B Testing Success usually comes to those who are too busy to be looking for it. React Work hard in silence, let your success be your noise. Server Response Sharding Virtual Machines
