@@ -18,3 +18,4 @@ API Opportunities don't happen. You create them. Kubernetes Agile Optimization B
 Artificial Intelligence Version Control API Virtual Machines CI/CD Content Delivery Network Success is not in what you have, but who you are. Blockchain The only way to do great work is to love what you do. Edge Computing Frontend
 Python Data Pipeline A/B Testing Difficult roads often lead to beautiful destinations. Container Orchestration
 WebSockets To be the best, you must be able to handle the worst. DevOps Scalability Difficult roads often lead to beautiful destinations. Dream big and dare to fail. Edge Computing Algorithm JWT Firewalls
+Distributed Systems React Zero Downtime Deployment Content Delivery Network Scalability Neural Networks Microservices Firewalls Python Cache Invalidation
