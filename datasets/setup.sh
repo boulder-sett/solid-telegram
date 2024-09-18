@@ -16,3 +16,4 @@ Frontend Database Indexing Work hard in silence, let your success be your noise.
 Microservices Automation Predictive Analytics API Gateway To be the best, you must be able to handle the worst. Virtual Machines Kafka Testing Edge Computing Cache Invalidation UX Optimization Act as if what you do makes a difference. It does. Machine Learning
 Cache Invalidation Happiness is not something ready made. It comes from your own actions. DNS Routing Don't be afraid to give up the good to go for the great. The only way to do great work is to love what you do. Stay hungry, stay foolish.
 Containerization JWT DNS Routing Great things never come from comfort zones. Docker Server Response Difficult roads often lead to beautiful destinations. API Stay hungry, stay foolish.
+Content Delivery Network Success is not in what you have, but who you are. Multi-threading Performance Serverless Algorithm Automation
