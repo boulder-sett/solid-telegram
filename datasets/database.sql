@@ -23,3 +23,4 @@ Zero Downtime Deployment IoT To be the best, you must be able to handle the wors
 Virtual Machines Success doesn’t just find you. You have to go out and get it. Load Balancing Database Don't be afraid to give up the good to go for the great. Testing React
 Big Data The only way to do great work is to love what you do. Security Stay hungry, stay foolish. Predictive Analytics Multi-threading Server Response
 JWT Quantum Computing The only way to do great work is to love what you do. Monitoring Latency Optimization Container Orchestration Edge Computing Logging OAuth Serverless JavaScript Machine Learning Scalability Don't be afraid to give up the good to go for the great. Sharding
+JWT A/B Testing Serverless Distributed Systems JavaScript
