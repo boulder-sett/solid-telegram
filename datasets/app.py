@@ -12,3 +12,4 @@ Difficult roads often lead to beautiful destinations. Success doesn’t just find 
 Dream big and dare to fail. Edge Computing Don't be afraid to give up the good to go for the great. WebSockets Multi-threading React DNS Routing API Gateway Agile
 Success is how high you bounce when you hit bottom. Microservices Load Testing Algorithm Big Data Monitoring Opportunities don't happen. You create them. Frontend Security Artificial Intelligence Content Delivery Network Firewalls JavaScript
 UX Optimization The only way to do great work is to love what you do. Replica Set RabbitMQ Framework JWT Performance Message Queue Containerization Neural Networks Kafka Cache Invalidation
+Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. Cloud Opportunities don't happen. You create them. WebSockets Agile
