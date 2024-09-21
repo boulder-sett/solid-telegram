@@ -15,3 +15,4 @@ Database To be the best, you must be able to handle the worst. Container Orchest
 IoT Database NLP Content Delivery Network A/B Testing Python Innovation distinguishes between a leader and a follower. Kubernetes Kafka Microservices
 Deployment CI/CD Success is how high you bounce when you hit bottom. Frontend Great things never come from comfort zones. JavaScript React
 Success is not in what you have, but who you are. Cloud Functions Database Indexing Difficult roads often lead to beautiful destinations. Containerization
+Database Indexing Scalability Edge Computing Optimization Virtual Machines Testing
