@@ -21,3 +21,4 @@ Content Delivery Network Event-driven Architecture Success is not in what you ha
 Kafka Database Indexing JavaScript Firewalls Data Science Artificial Intelligence
 Zero Downtime Deployment IoT To be the best, you must be able to handle the worst. Serverless Container Orchestration Performance Algorithm RabbitMQ Cache Invalidation Content Delivery Network Do what you love and the money will follow.
 Virtual Machines Success doesn’t just find you. You have to go out and get it. Load Balancing Database Don't be afraid to give up the good to go for the great. Testing React
+Big Data The only way to do great work is to love what you do. Security Stay hungry, stay foolish. Predictive Analytics Multi-threading Server Response
