@@ -26,3 +26,4 @@ I find that the harder I work, the more luck I seem to have. Performance Message
 Don't be afraid to give up the good to go for the great. Difficult roads often lead to beautiful destinations. Pull Request Simplicity is the ultimate sophistication. Microservices Automation Code Review
 Docker DNS Routing Dream big and dare to fail. Cache Invalidation NLP
 Cache Invalidation Framework Distributed Systems Edge Computing API Event-driven Architecture CI/CD Virtual Machines Pull Request Container Orchestration Testing Lambda Functions Dream big and dare to fail. DNS Routing Artificial Intelligence
+Edge Computing Message Queue Great things never come from comfort zones. Automation DNS Routing Success usually comes to those who are too busy to be looking for it. Distributed Systems Algorithm Cloud

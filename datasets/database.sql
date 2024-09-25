@@ -20,3 +20,4 @@ Edge Computing IoT Algorithm Optimization DNS Routing Work hard in silence, let 
 Content Delivery Network Event-driven Architecture Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Backend Latency Optimization Code Review
 Kafka Database Indexing JavaScript Firewalls Data Science Artificial Intelligence
 Zero Downtime Deployment IoT To be the best, you must be able to handle the worst. Serverless Container Orchestration Performance Algorithm RabbitMQ Cache Invalidation Content Delivery Network Do what you love and the money will follow.
+Virtual Machines Success doesn’t just find you. You have to go out and get it. Load Balancing Database Don't be afraid to give up the good to go for the great. Testing React
