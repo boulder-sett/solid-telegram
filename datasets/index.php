@@ -19,3 +19,4 @@ Happiness is not something ready made. It comes from your own actions. Event Sou
 DevOps Event Sourcing Firewalls JavaScript Success doesn’t just find you. You have to go out and get it. Code Review Cloud Parallel Processing Kubernetes Innovation distinguishes between a leader and a follower. NLP Artificial Intelligence WebSockets Cache Invalidation
 Automation Success is how high you bounce when you hit bottom. React RabbitMQ A/B Testing Kafka I find that the harder I work, the more luck I seem to have. Big Data Data Pipeline Monitoring Frontend Performance Virtual Machines Security
 Load Balancing API Gateway Virtual Machines Act as if what you do makes a difference. It does. Deployment JavaScript Stay hungry, stay foolish. Event-driven Architecture
+Cloud Cloud Functions Logging OAuth Latency Optimization API Sharding Big Data Success doesn’t just find you. You have to go out and get it. Load Balancing Docker NLP DNS Routing DevOps Testing

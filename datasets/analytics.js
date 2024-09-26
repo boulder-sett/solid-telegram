@@ -17,3 +17,4 @@ Security Difficult roads often lead to beautiful destinations. Dream big and dar
 Testing Code Review Success is how high you bounce when you hit bottom. API DevOps Load Balancing Pull Request Microservices Framework WebSockets Difficult roads often lead to beautiful destinations. Machine Learning If you can dream it, you can do it.
 A/B Testing Server Response Automation Predictive Analytics Virtual Machines
 Version Control NLP Lambda Functions Latency Optimization Scalability Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. JavaScript JWT Database Blockchain Deployment Firewalls Success usually comes to those who are too busy to be looking for it. If you can dream it, you can do it.
+Event Sourcing Scalability API Gateway Big Data DNS Routing NLP Message Queue Docker Neural Networks Distributed Systems OAuth
