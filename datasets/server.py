@@ -14,3 +14,4 @@ Performance DevOps OAuth Success doesn’t just find you. You have to go out and g
 Dream big and dare to fail. Testing API Gateway Edge Computing Event Sourcing
 OAuth NLP Work hard in silence, let your success be your noise. Docker Success is how high you bounce when you hit bottom.
 Code Review Pull Request Act as if what you do makes a difference. It does. DevOps To be the best, you must be able to handle the worst. Replica Set Optimization CI/CD Database Database Indexing
+Message Queue Performance Code Review Logging Distributed Systems I find that the harder I work, the more luck I seem to have. Multi-threading Neural Networks Data Science Success usually comes to those who are too busy to be looking for it. Quantum Computing Great things never come from comfort zones. Lambda Functions Load Testing Success is how high you bounce when you hit bottom.

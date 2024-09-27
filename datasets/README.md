@@ -14,3 +14,4 @@ Frontend Kafka Version Control API Gateway Machine Learning Difficult roads ofte
 Cloud Opportunities don't happen. You create them. UX Optimization Difficult roads often lead to beautiful destinations. Parallel Processing
 Act as if what you do makes a difference. It does. Deployment The only way to do great work is to love what you do. Database Indexing Serverless Predictive Analytics Kafka Load Balancing Message Queue Success is not in what you have, but who you are. IoT
 Sharding Logging Microservices DevOps JWT Version Control
+Great things never come from comfort zones. RabbitMQ Success is how high you bounce when you hit bottom. Load Testing Code Review Performance
