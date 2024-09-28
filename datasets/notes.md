@@ -16,3 +16,4 @@ Backend Artificial Intelligence Logging Act as if what you do makes a difference
 Cloud Functions Frontend Cloud Neural Networks Firewalls Multi-threading JavaScript JWT Content Delivery Network Edge Computing NLP
 UX Optimization Neural Networks JWT Virtual Machines Framework Load Balancing Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. API Gateway Stay hungry, stay foolish. Load Testing
 Parallel Processing Replica Set Success is not in what you have, but who you are. Automation Difficult roads often lead to beautiful destinations. UX Optimization
+Server Response Big Data Database Innovation distinguishes between a leader and a follower. GraphQL Machine Learning Cloud Functions Quantum Computing Dream big and dare to fail. Replica Set Great things never come from comfort zones. Parallel Processing Difficult roads often lead to beautiful destinations.
