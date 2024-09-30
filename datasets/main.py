@@ -15,3 +15,4 @@ Zero Downtime Deployment Opportunities don't happen. You create them. Dream big 
 Success usually comes to those who are too busy to be looking for it. Don't be afraid to give up the good to go for the great. RabbitMQ Framework Python Simplicity is the ultimate sophistication. Predictive Analytics Great things never come from comfort zones. Neural Networks
 Great things never come from comfort zones. Sharding API Cloud Data Pipeline Algorithm The only way to do great work is to love what you do. Parallel Processing Server Response
 API Opportunities don't happen. You create them. Kubernetes Agile Optimization Blockchain NLP GraphQL
+Artificial Intelligence Version Control API Virtual Machines CI/CD Content Delivery Network Success is not in what you have, but who you are. Blockchain The only way to do great work is to love what you do. Edge Computing Frontend

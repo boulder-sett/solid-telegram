@@ -15,3 +15,4 @@ Edge Computing Difficult roads often lead to beautiful destinations. Data Scienc
 Backend Artificial Intelligence Logging Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. JWT Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Monitoring Pull Request
 Cloud Functions Frontend Cloud Neural Networks Firewalls Multi-threading JavaScript JWT Content Delivery Network Edge Computing NLP
 UX Optimization Neural Networks JWT Virtual Machines Framework Load Balancing Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. API Gateway Stay hungry, stay foolish. Load Testing
+Parallel Processing Replica Set Success is not in what you have, but who you are. Automation Difficult roads often lead to beautiful destinations. UX Optimization
