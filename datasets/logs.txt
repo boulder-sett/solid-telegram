@@ -18,3 +18,4 @@ RabbitMQ Content Delivery Network IoT Cloud Performance Backend Edge Computing D
 Simplicity is the ultimate sophistication. Parallel Processing Kafka Machine Learning To be the best, you must be able to handle the worst. Do what you love and the money will follow. Big Data Event-driven Architecture
 Container Orchestration Algorithm Automation Message Queue Success is how high you bounce when you hit bottom. Scalability If you can dream it, you can do it.
 CI/CD Scalability RabbitMQ Automation Cache Invalidation
+API Artificial Intelligence Backend Framework Server Response Event-driven Architecture Kubernetes Innovation distinguishes between a leader and a follower. Scalability Parallel Processing Edge Computing Latency Optimization Act as if what you do makes a difference. It does.

@@ -14,3 +14,4 @@ If you can dream it, you can do it. Innovation distinguishes between a leader an
 Edge Computing Difficult roads often lead to beautiful destinations. Data Science IoT Data Pipeline Replica Set If you can dream it, you can do it. Algorithm Cache Invalidation
 Backend Artificial Intelligence Logging Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. JWT Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Monitoring Pull Request
 Cloud Functions Frontend Cloud Neural Networks Firewalls Multi-threading JavaScript JWT Content Delivery Network Edge Computing NLP
+UX Optimization Neural Networks JWT Virtual Machines Framework Load Balancing Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. API Gateway Stay hungry, stay foolish. Load Testing
