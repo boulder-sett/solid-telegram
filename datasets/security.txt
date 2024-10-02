@@ -14,3 +14,4 @@ JavaScript Sharding GraphQL Kubernetes Backend Scalability Artificial Intelligen
 Database To be the best, you must be able to handle the worst. Container Orchestration Success is not in what you have, but who you are. Database Indexing Docker JWT Predictive Analytics Blockchain DevOps DNS Routing GraphQL Virtual Machines I find that the harder I work, the more luck I seem to have. Agile
 IoT Database NLP Content Delivery Network A/B Testing Python Innovation distinguishes between a leader and a follower. Kubernetes Kafka Microservices
 Deployment CI/CD Success is how high you bounce when you hit bottom. Frontend Great things never come from comfort zones. JavaScript React
+Success is not in what you have, but who you are. Cloud Functions Database Indexing Difficult roads often lead to beautiful destinations. Containerization
