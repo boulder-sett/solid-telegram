@@ -12,3 +12,4 @@ Database Success is not in what you have, but who you are. Testing Deployment Ze
 Frontend Event Sourcing Stay hungry, stay foolish. Microservices Algorithm Deployment Kafka
 Frontend Kafka Version Control API Gateway Machine Learning Difficult roads often lead to beautiful destinations. Kubernetes I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it. Load Testing
 Cloud Opportunities don't happen. You create them. UX Optimization Difficult roads often lead to beautiful destinations. Parallel Processing
+Act as if what you do makes a difference. It does. Deployment The only way to do great work is to love what you do. Database Indexing Serverless Predictive Analytics Kafka Load Balancing Message Queue Success is not in what you have, but who you are. IoT

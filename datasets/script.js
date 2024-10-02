@@ -16,3 +16,4 @@ Distributed Systems UX Optimization Serverless GraphQL CI/CD Data Pipeline Artif
 Dream big and dare to fail. UX Optimization DNS Routing RabbitMQ Zero Downtime Deployment Distributed Systems Kubernetes
 Pull Request Code Review If you can dream it, you can do it. Version Control Docker Database Indexing Framework DNS Routing Cloud Performance Algorithm
 Microservices Cloud Functions UX Optimization Virtual Machines DNS Routing Monitoring Container Orchestration Optimization
+Content Delivery Network Logging Sharding Microservices Version Control Security Multi-threading Simplicity is the ultimate sophistication. Virtual Machines To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom.
