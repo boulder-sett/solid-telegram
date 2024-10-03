@@ -13,3 +13,4 @@ Scalability Happiness is not something ready made. It comes from your own action
 If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Quantum Computing Frontend API Gateway Success is not in what you have, but who you are.
 Edge Computing Difficult roads often lead to beautiful destinations. Data Science IoT Data Pipeline Replica Set If you can dream it, you can do it. Algorithm Cache Invalidation
 Backend Artificial Intelligence Logging Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. JWT Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Monitoring Pull Request
+Cloud Functions Frontend Cloud Neural Networks Firewalls Multi-threading JavaScript JWT Content Delivery Network Edge Computing NLP
