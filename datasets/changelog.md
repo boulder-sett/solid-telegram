@@ -24,3 +24,4 @@ Load Balancing Simplicity is the ultimate sophistication. DevOps Agile Do what y
 Backend Replica Set Cache Invalidation RabbitMQ Monitoring React DNS Routing Big Data Sharding Algorithm Parallel Processing I find that the harder I work, the more luck I seem to have. Frontend Content Delivery Network
 I find that the harder I work, the more luck I seem to have. Performance Message Queue Data Pipeline DevOps GraphQL Frontend Quantum Computing Load Testing Framework IoT Distributed Systems API Security
 Don't be afraid to give up the good to go for the great. Difficult roads often lead to beautiful destinations. Pull Request Simplicity is the ultimate sophistication. Microservices Automation Code Review
+Docker DNS Routing Dream big and dare to fail. Cache Invalidation NLP
