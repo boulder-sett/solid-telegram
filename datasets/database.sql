@@ -19,3 +19,4 @@ Database Automation Don't be afraid to give up the good to go for the great. Log
 Edge Computing IoT Algorithm Optimization DNS Routing Work hard in silence, let your success be your noise. Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. Frontend Innovation distinguishes between a leader and a follower. Data Science Version Control To be the best, you must be able to handle the worst. CI/CD
 Content Delivery Network Event-driven Architecture Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Backend Latency Optimization Code Review
 Kafka Database Indexing JavaScript Firewalls Data Science Artificial Intelligence
+Zero Downtime Deployment IoT To be the best, you must be able to handle the worst. Serverless Container Orchestration Performance Algorithm RabbitMQ Cache Invalidation Content Delivery Network Do what you love and the money will follow.

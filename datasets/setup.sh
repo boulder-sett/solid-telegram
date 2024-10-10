@@ -13,3 +13,4 @@ Cache Invalidation Pull Request Lambda Functions Docker IoT Kafka
 Algorithm Message Queue GraphQL Artificial Intelligence Frontend OAuth Database Indexing Do what you love and the money will follow. Load Testing JavaScript
 GraphQL Backend Database Indexing Zero Downtime Deployment Message Queue Kubernetes CI/CD
 Frontend Database Indexing Work hard in silence, let your success be your noise. Content Delivery Network Simplicity is the ultimate sophistication. Zero Downtime Deployment Automation JWT
+Microservices Automation Predictive Analytics API Gateway To be the best, you must be able to handle the worst. Virtual Machines Kafka Testing Edge Computing Cache Invalidation UX Optimization Act as if what you do makes a difference. It does. Machine Learning
