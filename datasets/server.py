@@ -12,3 +12,4 @@ Automation Frontend React Kubernetes Security Blockchain Zero Downtime Deploymen
 Cache Invalidation Framework JavaScript Agile Backend IoT Multi-threading Success is not in what you have, but who you are. Cloud Functions Data Pipeline Lambda Functions Version Control Blockchain DNS Routing A/B Testing
 Performance DevOps OAuth Success doesn’t just find you. You have to go out and get it. Neural Networks Do what you love and the money will follow. Zero Downtime Deployment
 Dream big and dare to fail. Testing API Gateway Edge Computing Event Sourcing
+OAuth NLP Work hard in silence, let your success be your noise. Docker Success is how high you bounce when you hit bottom.
