@@ -15,3 +15,4 @@ Pull Request Big Data Deployment If you can dream it, you can do it. DevOps Bloc
 Database Indexing Sharding Quantum Computing Testing GraphQL OAuth Firewalls Difficult roads often lead to beautiful destinations. Machine Learning The only way to do great work is to love what you do. JavaScript Code Review Lambda Functions NLP
 Security Difficult roads often lead to beautiful destinations. Dream big and dare to fail. Don't be afraid to give up the good to go for the great. Automation
 Testing Code Review Success is how high you bounce when you hit bottom. API DevOps Load Balancing Pull Request Microservices Framework WebSockets Difficult roads often lead to beautiful destinations. Machine Learning If you can dream it, you can do it.
+A/B Testing Server Response Automation Predictive Analytics Virtual Machines
