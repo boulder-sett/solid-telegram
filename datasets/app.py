@@ -10,3 +10,4 @@ Distributed Systems API Gateway Code Review Great things never come from comfort
 Dream big and dare to fail. Zero Downtime Deployment Blockchain DevOps Data Pipeline A/B Testing JavaScript
 Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. WebSockets Success is how high you bounce when you hit bottom. Backend Frontend OAuth Data Pipeline Happiness is not something ready made. It comes from your own actions. API Gateway Work hard in silence, let your success be your noise. CI/CD
 Dream big and dare to fail. Edge Computing Don't be afraid to give up the good to go for the great. WebSockets Multi-threading React DNS Routing API Gateway Agile
+Success is how high you bounce when you hit bottom. Microservices Load Testing Algorithm Big Data Monitoring Opportunities don't happen. You create them. Frontend Security Artificial Intelligence Content Delivery Network Firewalls JavaScript

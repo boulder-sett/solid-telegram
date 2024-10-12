@@ -11,3 +11,4 @@ Multi-threading Replica Set Sharding Data Pipeline React Load Balancing Success 
 If you can dream it, you can do it. Framework API A/B Testing Testing Sharding Performance Message Queue Code Review
 Data Pipeline Python Content Delivery Network Zero Downtime Deployment Quantum Computing CI/CD OAuth Monitoring Automation
 Containerization Neural Networks API DNS Routing Logging NLP Agile JavaScript Lambda Functions OAuth Success usually comes to those who are too busy to be looking for it.
+DevOps Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower. Zero Downtime Deployment Cache Invalidation Content Delivery Network Scalability Backend Kubernetes Virtual Machines Logging Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions. Machine Learning If you can dream it, you can do it.
