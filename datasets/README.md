@@ -10,3 +10,4 @@ Backend JWT I find that the harder I work, the more luck I seem to have. Big Dat
 Performance Great things never come from comfort zones. DNS Routing Cloud If you can dream it, you can do it. Replica Set Data Science GraphQL Message Queue Cloud Functions Neural Networks
 Database Success is not in what you have, but who you are. Testing Deployment Zero Downtime Deployment Multi-threading
 Frontend Event Sourcing Stay hungry, stay foolish. Microservices Algorithm Deployment Kafka
+Frontend Kafka Version Control API Gateway Machine Learning Difficult roads often lead to beautiful destinations. Kubernetes I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it. Load Testing
