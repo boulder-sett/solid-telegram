@@ -13,3 +13,4 @@ Algorithm WebSockets Lambda Functions Success doesn’t just find you. You have to
 Code Review Load Balancing DNS Routing Event-driven Architecture Performance Quantum Computing GraphQL A/B Testing Content Delivery Network JWT Don't be afraid to give up the good to go for the great.
 Pull Request Big Data Deployment If you can dream it, you can do it. DevOps Blockchain Success doesn’t just find you. You have to go out and get it. Python Simplicity is the ultimate sophistication. UX Optimization Algorithm Automation Act as if what you do makes a difference. It does.
 Database Indexing Sharding Quantum Computing Testing GraphQL OAuth Firewalls Difficult roads often lead to beautiful destinations. Machine Learning The only way to do great work is to love what you do. JavaScript Code Review Lambda Functions NLP
+Security Difficult roads often lead to beautiful destinations. Dream big and dare to fail. Don't be afraid to give up the good to go for the great. Automation
