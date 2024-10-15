@@ -17,3 +17,4 @@ Frontend Database Indexing Microservices DNS Routing Algorithm Logging Deploymen
 IoT JavaScript DNS Routing Code Review Container Orchestration
 Neural Networks React Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations. Latency Optimization Dream big and dare to fail. Deployment Event-driven Architecture Code Review Sharding
 React Deployment Containerization WebSockets Testing
+Server Response Agile IoT Distributed Systems Replica Set Database Indexing React Event-driven Architecture Difficult roads often lead to beautiful destinations. Firewalls To be the best, you must be able to handle the worst.
