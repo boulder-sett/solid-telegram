@@ -11,3 +11,4 @@ Python Sharding CI/CD Work hard in silence, let your success be your noise. Drea
 Containerization Load Testing Work hard in silence, let your success be your noise. Virtual Machines Pull Request Performance Firewalls
 Cache Invalidation Pull Request Lambda Functions Docker IoT Kafka
 Algorithm Message Queue GraphQL Artificial Intelligence Frontend OAuth Database Indexing Do what you love and the money will follow. Load Testing JavaScript
+GraphQL Backend Database Indexing Zero Downtime Deployment Message Queue Kubernetes CI/CD
