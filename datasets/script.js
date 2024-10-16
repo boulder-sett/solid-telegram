@@ -12,3 +12,4 @@ Predictive Analytics A/B Testing DNS Routing The only way to do great work is to
 Algorithm Blockchain Database Logging Happiness is not something ready made. It comes from your own actions.
 Don't be afraid to give up the good to go for the great. Parallel Processing UX Optimization Testing Cloud Functions Success is not in what you have, but who you are. CI/CD IoT Innovation distinguishes between a leader and a follower.
 Success doesn’t just find you. You have to go out and get it. Backend A/B Testing CI/CD Data Pipeline Virtual Machines Machine Learning Testing WebSockets Simplicity is the ultimate sophistication.
+Distributed Systems UX Optimization Serverless GraphQL CI/CD Data Pipeline Artificial Intelligence Container Orchestration Kubernetes Success is how high you bounce when you hit bottom. Framework
