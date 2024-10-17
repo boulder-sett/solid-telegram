@@ -22,3 +22,4 @@ Backend Event-driven Architecture Microservices Frontend UX Optimization Opportu
 Pull Request Backend Python Cache Invalidation Performance Agile Cloud Virtual Machines Edge Computing Load Testing Database Security Predictive Analytics Automation
 IoT Machine Learning Data Science Work hard in silence, let your success be your noise. A/B Testing Latency Optimization Code Review Microservices Cloud Act as if what you do makes a difference. It does.
 Scalability Event-driven Architecture Cache Invalidation RabbitMQ OAuth Algorithm Frontend Success is how high you bounce when you hit bottom. Zero Downtime Deployment Testing Success is not in what you have, but who you are. Framework Edge Computing
+Data Pipeline Edge Computing Backend Version Control Content Delivery Network React Load Balancing Python Lambda Functions
