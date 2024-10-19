@@ -11,3 +11,4 @@ Code Review RabbitMQ API Don't be afraid to give up the good to go for the great
 Automation Frontend React Kubernetes Security Blockchain Zero Downtime Deployment Version Control Agile Opportunities don't happen. You create them. Virtual Machines
 Cache Invalidation Framework JavaScript Agile Backend IoT Multi-threading Success is not in what you have, but who you are. Cloud Functions Data Pipeline Lambda Functions Version Control Blockchain DNS Routing A/B Testing
 Performance DevOps OAuth Success doesn’t just find you. You have to go out and get it. Neural Networks Do what you love and the money will follow. Zero Downtime Deployment
+Dream big and dare to fail. Testing API Gateway Edge Computing Event Sourcing
