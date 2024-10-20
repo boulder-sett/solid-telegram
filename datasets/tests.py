@@ -10,3 +10,4 @@ Cloud Load Testing Message Queue Agile Backend Dream big and dare to fail. Do wh
 Multi-threading Replica Set Sharding Data Pipeline React Load Balancing Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it. Frontend Virtual Machines Event Sourcing
 If you can dream it, you can do it. Framework API A/B Testing Testing Sharding Performance Message Queue Code Review
 Data Pipeline Python Content Delivery Network Zero Downtime Deployment Quantum Computing CI/CD OAuth Monitoring Automation
+Containerization Neural Networks API DNS Routing Logging NLP Agile JavaScript Lambda Functions OAuth Success usually comes to those who are too busy to be looking for it.
