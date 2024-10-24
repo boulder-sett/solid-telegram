@@ -9,3 +9,4 @@ RabbitMQ IoT Success is not in what you have, but who you are. Latency Optimizat
 Backend JWT I find that the harder I work, the more luck I seem to have. Big Data Cloud Functions The only way to do great work is to love what you do. Version Control
 Performance Great things never come from comfort zones. DNS Routing Cloud If you can dream it, you can do it. Replica Set Data Science GraphQL Message Queue Cloud Functions Neural Networks
 Database Success is not in what you have, but who you are. Testing Deployment Zero Downtime Deployment Multi-threading
+Frontend Event Sourcing Stay hungry, stay foolish. Microservices Algorithm Deployment Kafka
