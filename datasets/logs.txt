@@ -14,3 +14,4 @@ UX Optimization Security Kubernetes Sharding Artificial Intelligence I find that
 Backend Work hard in silence, let your success be your noise. React Content Delivery Network Security Logging Sharding Predictive Analytics Version Control JWT Quantum Computing Success doesn’t just find you. You have to go out and get it. Lambda Functions Containerization Data Science
 Lambda Functions Latency Optimization Database Indexing Blockchain Python A/B Testing Message Queue
 JWT GraphQL Python DevOps Message Queue Data Science
+RabbitMQ Content Delivery Network IoT Cloud Performance Backend Edge Computing Don't be afraid to give up the good to go for the great. OAuth Latency Optimization Zero Downtime Deployment I find that the harder I work, the more luck I seem to have. DevOps
