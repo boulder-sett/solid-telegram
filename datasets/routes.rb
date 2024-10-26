@@ -7,3 +7,4 @@ Python Stay hungry, stay foolish. Work hard in silence, let your success be your
 API Gateway A/B Testing Pull Request DevOps Serverless Algorithm Happiness is not something ready made. It comes from your own actions. Load Balancing Kubernetes Great things never come from comfort zones.
 Database Indexing Container Orchestration Automation Cloud Serverless Pull Request JavaScript To be the best, you must be able to handle the worst. Optimization Load Balancing Code Review
 Kubernetes Code Review Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst. Cache Invalidation Firewalls Performance Load Testing Act as if what you do makes a difference. It does.
+Agile Stay hungry, stay foolish. Quantum Computing Dream big and dare to fail. Data Science A/B Testing UX Optimization Parallel Processing The only way to do great work is to love what you do. Don't be afraid to give up the good to go for the great. Data Pipeline
