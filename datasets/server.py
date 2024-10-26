@@ -9,3 +9,4 @@ Do what you love and the money will follow. Frontend To be the best, you must be
 Virtual Machines Performance Neural Networks CI/CD Predictive Analytics Happiness is not something ready made. It comes from your own actions. Algorithm Database WebSockets Content Delivery Network If you can dream it, you can do it.
 Code Review RabbitMQ API Don't be afraid to give up the good to go for the great. Cache Invalidation Logging Docker
 Automation Frontend React Kubernetes Security Blockchain Zero Downtime Deployment Version Control Agile Opportunities don't happen. You create them. Virtual Machines
+Cache Invalidation Framework JavaScript Agile Backend IoT Multi-threading Success is not in what you have, but who you are. Cloud Functions Data Pipeline Lambda Functions Version Control Blockchain DNS Routing A/B Testing
