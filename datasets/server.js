@@ -19,3 +19,4 @@ Serverless Frontend Code Review Kubernetes Event Sourcing Cache Invalidation Vir
 To be the best, you must be able to handle the worst. CI/CD Load Balancing Blockchain Kafka Success is not in what you have, but who you are.
 Cache Invalidation Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Cloud RabbitMQ Do what you love and the money will follow. Python Opportunities don't happen. You create them. Neural Networks Docker UX Optimization A/B Testing NLP Frontend The only way to do great work is to love what you do.
 Happiness is not something ready made. It comes from your own actions. OAuth Sharding Automation Agile Load Balancing
+API Gateway Innovation distinguishes between a leader and a follower. Artificial Intelligence Multi-threading Load Balancing To be the best, you must be able to handle the worst. Pull Request
