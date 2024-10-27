@@ -15,3 +15,4 @@ DevOps Cloud Serverless Automation Multi-threading To be the best, you must be a
 Opportunities don't happen. You create them. API Gateway Simplicity is the ultimate sophistication. Cloud Functions Success doesn’t just find you. You have to go out and get it.
 Kubernetes Version Control Database GraphQL Success usually comes to those who are too busy to be looking for it. RabbitMQ Performance UX Optimization Agile Python DNS Routing Content Delivery Network Security
 Database Indexing Server Response GraphQL Quantum Computing Artificial Intelligence A/B Testing React WebSockets Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. Load Balancing Event Sourcing
+Happiness is not something ready made. It comes from your own actions. Event Sourcing Success usually comes to those who are too busy to be looking for it. Firewalls Load Testing

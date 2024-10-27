@@ -20,3 +20,4 @@ Load Balancing Lambda Functions Automation Difficult roads often lead to beautif
 JWT Innovation distinguishes between a leader and a follower. Parallel Processing Container Orchestration Message Queue Testing Kafka NLP
 DNS Routing Kafka OAuth Simplicity is the ultimate sophistication. Event-driven Architecture React GraphQL Frontend Load Testing Cache Invalidation Docker Agile API Dream big and dare to fail.
 Database Cloud Functions Optimization Event-driven Architecture Machine Learning Stay hungry, stay foolish. Distributed Systems OAuth Artificial Intelligence Framework Monitoring Load Testing Testing Zero Downtime Deployment Data Pipeline
+Load Balancing Simplicity is the ultimate sophistication. DevOps Agile Do what you love and the money will follow. Data Science NLP Database Indexing
