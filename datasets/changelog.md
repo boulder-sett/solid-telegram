@@ -19,3 +19,4 @@ DNS Routing A/B Testing Artificial Intelligence Load Testing Lambda Functions In
 Load Balancing Lambda Functions Automation Difficult roads often lead to beautiful destinations. Serverless Success doesn’t just find you. You have to go out and get it. Testing NLP Event-driven Architecture Edge Computing Deployment RabbitMQ
 JWT Innovation distinguishes between a leader and a follower. Parallel Processing Container Orchestration Message Queue Testing Kafka NLP
 DNS Routing Kafka OAuth Simplicity is the ultimate sophistication. Event-driven Architecture React GraphQL Frontend Load Testing Cache Invalidation Docker Agile API Dream big and dare to fail.
+Database Cloud Functions Optimization Event-driven Architecture Machine Learning Stay hungry, stay foolish. Distributed Systems OAuth Artificial Intelligence Framework Monitoring Load Testing Testing Zero Downtime Deployment Data Pipeline
