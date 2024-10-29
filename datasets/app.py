@@ -6,3 +6,4 @@ To be the best, you must be able to handle the worst. Version Control Data Scien
 RabbitMQ Code Review Lambda Functions Act as if what you do makes a difference. It does. Logging
 Happiness is not something ready made. It comes from your own actions. Database Event Sourcing Security Version Control Dream big and dare to fail. Message Queue Framework Data Science Multi-threading DNS Routing Agile Artificial Intelligence
 Opportunities don't happen. You create them. Virtual Machines WebSockets IoT Success usually comes to those who are too busy to be looking for it. Monitoring React Replica Set RabbitMQ Automation Quantum Computing
+Distributed Systems API Gateway Code Review Great things never come from comfort zones. Dream big and dare to fail. Algorithm A/B Testing Content Delivery Network Kubernetes Success doesn’t just find you. You have to go out and get it. Version Control Optimization Python Pull Request

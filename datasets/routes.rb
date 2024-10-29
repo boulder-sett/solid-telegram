@@ -6,3 +6,4 @@ CI/CD Distributed Systems Don't be afraid to give up the good to go for the grea
 Python Stay hungry, stay foolish. Work hard in silence, let your success be your noise. NLP Difficult roads often lead to beautiful destinations. Quantum Computing Docker Backend Cloud Functions Frontend Algorithm Version Control
 API Gateway A/B Testing Pull Request DevOps Serverless Algorithm Happiness is not something ready made. It comes from your own actions. Load Balancing Kubernetes Great things never come from comfort zones.
 Database Indexing Container Orchestration Automation Cloud Serverless Pull Request JavaScript To be the best, you must be able to handle the worst. Optimization Load Balancing Code Review
+Kubernetes Code Review Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst. Cache Invalidation Firewalls Performance Load Testing Act as if what you do makes a difference. It does.
