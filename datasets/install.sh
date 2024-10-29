@@ -14,3 +14,4 @@ JWT Big Data Optimization Cloud WebSockets
 Multi-threading NLP Cache Invalidation API Gateway OAuth Docker Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it. Security Monitoring Parallel Processing
 OAuth Do what you love and the money will follow. Container Orchestration Load Testing UX Optimization
 Frontend Database Indexing Microservices DNS Routing Algorithm Logging Deployment Virtual Machines Big Data IoT Event-driven Architecture
+IoT JavaScript DNS Routing Code Review Container Orchestration
