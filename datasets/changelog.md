@@ -17,3 +17,4 @@ Serverless Security Virtual Machines Python Version Control RabbitMQ Firewalls G
 CI/CD Data Science Code Review Machine Learning Success usually comes to those who are too busy to be looking for it. Serverless Load Balancing Lambda Functions Database Monitoring Database Indexing
 DNS Routing A/B Testing Artificial Intelligence Load Testing Lambda Functions Innovation distinguishes between a leader and a follower. Distributed Systems Great things never come from comfort zones. Docker Microservices
 Load Balancing Lambda Functions Automation Difficult roads often lead to beautiful destinations. Serverless Success doesn’t just find you. You have to go out and get it. Testing NLP Event-driven Architecture Edge Computing Deployment RabbitMQ
+JWT Innovation distinguishes between a leader and a follower. Parallel Processing Container Orchestration Message Queue Testing Kafka NLP
