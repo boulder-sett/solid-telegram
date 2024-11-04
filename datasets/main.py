@@ -10,3 +10,4 @@ Docker To be the best, you must be able to handle the worst. Lambda Functions Bl
 Artificial Intelligence JWT I find that the harder I work, the more luck I seem to have. Deployment Algorithm Firewalls Simplicity is the ultimate sophistication. WebSockets Python Optimization Backend
 I find that the harder I work, the more luck I seem to have. Multi-threading Framework Difficult roads often lead to beautiful destinations. Success usually comes to those who are too busy to be looking for it. Frontend Event Sourcing Performance Event-driven Architecture
 JWT Logging Event Sourcing GraphQL Docker NLP Multi-threading Quantum Computing Success is not in what you have, but who you are. Python Kubernetes DevOps Predictive Analytics Act as if what you do makes a difference. It does.
+I find that the harder I work, the more luck I seem to have. Blockchain React Deployment Kafka IoT Cloud Zero Downtime Deployment RabbitMQ Monitoring Machine Learning Latency Optimization
