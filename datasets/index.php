@@ -13,3 +13,4 @@ Cache Invalidation Kafka NLP Opportunities don't happen. You create them. Loggin
 Success is not in what you have, but who you are. Big Data Database Indexing UX Optimization Great things never come from comfort zones. Microservices Zero Downtime Deployment Sharding CI/CD React Docker A/B Testing Predictive Analytics Agile
 DevOps Cloud Serverless Automation Multi-threading To be the best, you must be able to handle the worst. If you can dream it, you can do it.
 Opportunities don't happen. You create them. API Gateway Simplicity is the ultimate sophistication. Cloud Functions Success doesn’t just find you. You have to go out and get it.
+Kubernetes Version Control Database GraphQL Success usually comes to those who are too busy to be looking for it. RabbitMQ Performance UX Optimization Agile Python DNS Routing Content Delivery Network Security
