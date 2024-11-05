@@ -12,3 +12,4 @@ API Content Delivery Network Multi-threading Simplicity is the ultimate sophisti
 Event-driven Architecture JavaScript Parallel Processing Machine Learning Load Balancing Scalability Zero Downtime Deployment GraphQL If you can dream it, you can do it. Containerization Lambda Functions
 UX Optimization Security Kubernetes Sharding Artificial Intelligence I find that the harder I work, the more luck I seem to have. Load Testing Virtual Machines Blockchain If you can dream it, you can do it. RabbitMQ Firewalls
 Backend Work hard in silence, let your success be your noise. React Content Delivery Network Security Logging Sharding Predictive Analytics Version Control JWT Quantum Computing Success doesn’t just find you. You have to go out and get it. Lambda Functions Containerization Data Science
+Lambda Functions Latency Optimization Database Indexing Blockchain Python A/B Testing Message Queue
