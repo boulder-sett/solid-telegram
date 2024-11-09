@@ -9,3 +9,4 @@ Distributed Systems API Content Delivery Network Zero Downtime Deployment DNS Ro
 Neural Networks Difficult roads often lead to beautiful destinations. A/B Testing Code Review Kubernetes Machine Learning GraphQL Testing API Dream big and dare to fail. Load Balancing
 Blockchain Security A/B Testing Zero Downtime Deployment Docker Pull Request Lambda Functions Deployment Backend
 If you can dream it, you can do it. Don't be afraid to give up the good to go for the great. DNS Routing Stay hungry, stay foolish. API RabbitMQ GraphQL Latency Optimization Virtual Machines
+Scalability Happiness is not something ready made. It comes from your own actions. Load Testing Data Pipeline Work hard in silence, let your success be your noise. Success usually comes to those who are too busy to be looking for it. Event-driven Architecture Security NLP Frontend Python
