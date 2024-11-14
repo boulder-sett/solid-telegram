@@ -10,3 +10,4 @@ Cache Invalidation Server Response Deployment Microservices React Quantum Comput
 Microservices Success usually comes to those who are too busy to be looking for it. Load Balancing Distributed Systems Sharding WebSockets Cloud Neural Networks Data Pipeline UX Optimization The only way to do great work is to love what you do.
 Predictive Analytics A/B Testing DNS Routing The only way to do great work is to love what you do. GraphQL Zero Downtime Deployment Optimization
 Algorithm Blockchain Database Logging Happiness is not something ready made. It comes from your own actions.
+Don't be afraid to give up the good to go for the great. Parallel Processing UX Optimization Testing Cloud Functions Success is not in what you have, but who you are. CI/CD IoT Innovation distinguishes between a leader and a follower.
