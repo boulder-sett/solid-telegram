@@ -16,3 +16,4 @@ GraphQL Serverless Cache Invalidation Innovation distinguishes between a leader 
 Lambda Functions Python Testing Distributed Systems Act as if what you do makes a difference. It does. NLP Microservices Parallel Processing I find that the harder I work, the more luck I seem to have. Cache Invalidation Database Indexing Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower.
 Containerization API NLP Work hard in silence, let your success be your noise. Performance Do what you love and the money will follow. Serverless Code Review
 Serverless Frontend Code Review Kubernetes Event Sourcing Cache Invalidation Virtual Machines Sharding If you can dream it, you can do it. Firewalls
+To be the best, you must be able to handle the worst. CI/CD Load Balancing Blockchain Kafka Success is not in what you have, but who you are.
