@@ -17,3 +17,4 @@ Framework Server Response OAuth JWT DevOps Data Pipeline Pull Request Artificial
 UX Optimization Success usually comes to those who are too busy to be looking for it. Data Pipeline Great things never come from comfort zones. Python WebSockets
 Backend Distributed Systems The only way to do great work is to love what you do. Machine Learning Server Response Artificial Intelligence Kubernetes Dream big and dare to fail. Message Queue React
 Event Sourcing WebSockets Cloud Functions Data Pipeline Latency Optimization Code Review Agile Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. Event-driven Architecture Logging A/B Testing
+Monitoring Artificial Intelligence API Success is how high you bounce when you hit bottom. Big Data API Gateway Container Orchestration WebSockets Stay hungry, stay foolish. Edge Computing DNS Routing Cloud Functions RabbitMQ

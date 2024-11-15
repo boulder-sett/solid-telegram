@@ -11,3 +11,4 @@ Lambda Functions Security Artificial Intelligence Neural Networks Predictive Ana
 DNS Routing Event-driven Architecture Code Review Server Response Version Control Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Automation Big Data A/B Testing
 Cache Invalidation Kafka NLP Opportunities don't happen. You create them. Logging Work hard in silence, let your success be your noise. Performance A/B Testing Stay hungry, stay foolish.
 Success is not in what you have, but who you are. Big Data Database Indexing UX Optimization Great things never come from comfort zones. Microservices Zero Downtime Deployment Sharding CI/CD React Docker A/B Testing Predictive Analytics Agile
+DevOps Cloud Serverless Automation Multi-threading To be the best, you must be able to handle the worst. If you can dream it, you can do it.
