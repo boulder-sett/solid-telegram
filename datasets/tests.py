@@ -9,3 +9,4 @@ Database RabbitMQ Serverless CI/CD I find that the harder I work, the more luck 
 Cloud Load Testing Message Queue Agile Backend Dream big and dare to fail. Do what you love and the money will follow. Automation Happiness is not something ready made. It comes from your own actions. Predictive Analytics IoT Performance
 Multi-threading Replica Set Sharding Data Pipeline React Load Balancing Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it. Frontend Virtual Machines Event Sourcing
 If you can dream it, you can do it. Framework API A/B Testing Testing Sharding Performance Message Queue Code Review
+Data Pipeline Python Content Delivery Network Zero Downtime Deployment Quantum Computing CI/CD OAuth Monitoring Automation
