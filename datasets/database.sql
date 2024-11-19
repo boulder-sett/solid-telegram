@@ -11,3 +11,4 @@ Edge Computing Server Response To be the best, you must be able to handle the wo
 Firewalls Code Review NLP The only way to do great work is to love what you do. Data Science Containerization JWT Serverless Performance Happiness is not something ready made. It comes from your own actions. Artificial Intelligence
 Zero Downtime Deployment Success is not in what you have, but who you are. Latency Optimization DNS Routing Message Queue CI/CD GraphQL Event-driven Architecture Automation
 API Gateway I find that the harder I work, the more luck I seem to have. Security Cloud Functions Work hard in silence, let your success be your noise. WebSockets Data Science DevOps Deployment JWT Opportunities don't happen. You create them. Version Control Great things never come from comfort zones. If you can dream it, you can do it.
+OAuth IoT Do what you love and the money will follow. Cloud Multi-threading Event-driven Architecture
