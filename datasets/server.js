@@ -12,3 +12,4 @@ DevOps Distributed Systems Simplicity is the ultimate sophistication. JWT Succes
 NLP Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. IoT Zero Downtime Deployment
 API Gateway If you can dream it, you can do it. Success usually comes to those who are too busy to be looking for it. Agile DevOps Docker Version Control Simplicity is the ultimate sophistication. Artificial Intelligence
 Machine Learning The only way to do great work is to love what you do. WebSockets Deployment Big Data Kafka
+GraphQL Serverless Cache Invalidation Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. React IoT DNS Routing Optimization JavaScript The only way to do great work is to love what you do. Docker
