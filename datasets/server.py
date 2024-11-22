@@ -8,3 +8,4 @@ Agile Sharding Act as if what you do makes a difference. It does. Database Big D
 Do what you love and the money will follow. Frontend To be the best, you must be able to handle the worst. Pull Request Stay hungry, stay foolish. The only way to do great work is to love what you do. Message Queue Distributed Systems Database Framework
 Virtual Machines Performance Neural Networks CI/CD Predictive Analytics Happiness is not something ready made. It comes from your own actions. Algorithm Database WebSockets Content Delivery Network If you can dream it, you can do it.
 Code Review RabbitMQ API Don't be afraid to give up the good to go for the great. Cache Invalidation Logging Docker
+Automation Frontend React Kubernetes Security Blockchain Zero Downtime Deployment Version Control Agile Opportunities don't happen. You create them. Virtual Machines

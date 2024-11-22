@@ -8,3 +8,4 @@ Artificial Intelligence Machine Learning Backend Zero Downtime Deployment Edge C
 Distributed Systems API Content Delivery Network Zero Downtime Deployment DNS Routing Simplicity is the ultimate sophistication. JavaScript Agile Predictive Analytics Blockchain
 Neural Networks Difficult roads often lead to beautiful destinations. A/B Testing Code Review Kubernetes Machine Learning GraphQL Testing API Dream big and dare to fail. Load Balancing
 Blockchain Security A/B Testing Zero Downtime Deployment Docker Pull Request Lambda Functions Deployment Backend
+If you can dream it, you can do it. Don't be afraid to give up the good to go for the great. DNS Routing Stay hungry, stay foolish. API RabbitMQ GraphQL Latency Optimization Virtual Machines
