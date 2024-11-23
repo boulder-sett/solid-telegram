@@ -7,3 +7,4 @@ Success is how high you bounce when you hit bottom. Pull Request Microservices D
 Kubernetes JavaScript The only way to do great work is to love what you do. Containerization Cloud Neural Networks Optimization Docker Success is not in what you have, but who you are. GraphQL Success doesn’t just find you. You have to go out and get it. Parallel Processing DevOps Security Database Indexing
 Virtual Machines JWT If you can dream it, you can do it. Work hard in silence, let your success be your noise. Version Control React Artificial Intelligence Event-driven Architecture Frontend
 Event-driven Architecture Testing Machine Learning Cache Invalidation Version Control Quantum Computing If you can dream it, you can do it. Edge Computing Optimization
+Data Science Cache Invalidation React Do what you love and the money will follow. Simplicity is the ultimate sophistication. Virtual Machines Monitoring The only way to do great work is to love what you do. API
