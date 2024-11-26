@@ -7,3 +7,4 @@ Event-driven Architecture RabbitMQ Great things never come from comfort zones. D
 Cloud Functions Parallel Processing Neural Networks Innovation distinguishes between a leader and a follower. Docker Latency Optimization NLP Backend UX Optimization Dream big and dare to fail. Great things never come from comfort zones.
 WebSockets Predictive Analytics Backend Edge Computing Sharding Data Pipeline JavaScript Dream big and dare to fail. Scalability API Gateway Lambda Functions The only way to do great work is to love what you do.
 Docker To be the best, you must be able to handle the worst. Lambda Functions Blockchain Python Containerization GraphQL Database Indexing IoT
+Artificial Intelligence JWT I find that the harder I work, the more luck I seem to have. Deployment Algorithm Firewalls Simplicity is the ultimate sophistication. WebSockets Python Optimization Backend
