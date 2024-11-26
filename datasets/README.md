@@ -7,3 +7,4 @@ Testing Artificial Intelligence Performance Containerization Opportunities don't
 Performance Do what you love and the money will follow. Data Pipeline JavaScript Kubernetes Parallel Processing DevOps A/B Testing
 RabbitMQ IoT Success is not in what you have, but who you are. Latency Optimization Content Delivery Network Version Control Cache Invalidation Docker Sharding Firewalls Multi-threading Lambda Functions Innovation distinguishes between a leader and a follower.
 Backend JWT I find that the harder I work, the more luck I seem to have. Big Data Cloud Functions The only way to do great work is to love what you do. Version Control
+Performance Great things never come from comfort zones. DNS Routing Cloud If you can dream it, you can do it. Replica Set Data Science GraphQL Message Queue Cloud Functions Neural Networks
