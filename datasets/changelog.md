@@ -10,3 +10,4 @@ DNS Routing Docker Scalability JavaScript Quantum Computing Data Pipeline The on
 Backend Content Delivery Network Algorithm Virtual Machines Latency Optimization IoT Distributed Systems Monitoring Difficult roads often lead to beautiful destinations. Event Sourcing Load Balancing DevOps
 Database Indexing Dream big and dare to fail. A/B Testing Multi-threading Testing The only way to do great work is to love what you do. Performance IoT To be the best, you must be able to handle the worst. Difficult roads often lead to beautiful destinations. Pull Request Big Data Happiness is not something ready made. It comes from your own actions. Docker
 Frontend Data Pipeline Cloud Functions Code Review Content Delivery Network OAuth Database Indexing Optimization Simplicity is the ultimate sophistication. Artificial Intelligence
+Scalability Database Indexing Artificial Intelligence A/B Testing API Python Automation UX Optimization CI/CD
