@@ -4,3 +4,4 @@ Quantum Computing Opportunities don't happen. You create them. Automation Event 
 Cache Invalidation Event-driven Architecture Automation Act as if what you do makes a difference. It does. React
 To be the best, you must be able to handle the worst. Version Control Data Science Parallel Processing Logging Replica Set UX Optimization
 RabbitMQ Code Review Lambda Functions Act as if what you do makes a difference. It does. Logging
+Happiness is not something ready made. It comes from your own actions. Database Event Sourcing Security Version Control Dream big and dare to fail. Message Queue Framework Data Science Multi-threading DNS Routing Agile Artificial Intelligence
