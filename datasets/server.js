@@ -10,3 +10,4 @@ Automation Lambda Functions Cloud Functions Work hard in silence, let your succe
 API Event-driven Architecture Neural Networks Load Testing Logging Big Data Distributed Systems RabbitMQ
 DevOps Distributed Systems Simplicity is the ultimate sophistication. JWT Success doesn’t just find you. You have to go out and get it. Database Indexing Event Sourcing Happiness is not something ready made. It comes from your own actions. Multi-threading Frontend Stay hungry, stay foolish. Artificial Intelligence
 NLP Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. IoT Zero Downtime Deployment
+API Gateway If you can dream it, you can do it. Success usually comes to those who are too busy to be looking for it. Agile DevOps Docker Version Control Simplicity is the ultimate sophistication. Artificial Intelligence
