@@ -10,3 +10,4 @@ Distributed Systems Act as if what you do makes a difference. It does. Scalabili
 Sharding Framework Cloud Functions Cloud WebSockets Containerization GraphQL
 Testing Cloud Functions Quantum Computing Simplicity is the ultimate sophistication. Lambda Functions UX Optimization API Load Testing Big Data Performance
 Security The only way to do great work is to love what you do. DNS Routing Predictive Analytics I find that the harder I work, the more luck I seem to have. Python Do what you love and the money will follow. Pull Request Sharding Content Delivery Network
+JWT Big Data Optimization Cloud WebSockets
