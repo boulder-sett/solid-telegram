@@ -5,3 +5,4 @@ Distributed Systems Frontend Edge Computing Data Science Load Balancing Cloud Co
 Message Queue DevOps Docker A/B Testing Server Response Load Testing
 Testing Artificial Intelligence Performance Containerization Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. Machine Learning Quantum Computing Message Queue Multi-threading Happiness is not something ready made. It comes from your own actions.
 Performance Do what you love and the money will follow. Data Pipeline JavaScript Kubernetes Parallel Processing DevOps A/B Testing
+RabbitMQ IoT Success is not in what you have, but who you are. Latency Optimization Content Delivery Network Version Control Cache Invalidation Docker Sharding Firewalls Multi-threading Lambda Functions Innovation distinguishes between a leader and a follower.
