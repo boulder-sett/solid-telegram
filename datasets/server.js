@@ -8,3 +8,4 @@ Data Science Latency Optimization NLP Load Testing Testing Success usually comes
 Frontend Load Balancing Firewalls Server Response To be the best, you must be able to handle the worst. Testing Kafka DNS Routing Work hard in silence, let your success be your noise. NLP
 Automation Lambda Functions Cloud Functions Work hard in silence, let your success be your noise. Sharding Logging Pull Request
 API Event-driven Architecture Neural Networks Load Testing Logging Big Data Distributed Systems RabbitMQ
+DevOps Distributed Systems Simplicity is the ultimate sophistication. JWT Success doesn’t just find you. You have to go out and get it. Database Indexing Event Sourcing Happiness is not something ready made. It comes from your own actions. Multi-threading Frontend Stay hungry, stay foolish. Artificial Intelligence
