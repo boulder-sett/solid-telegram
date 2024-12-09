@@ -7,3 +7,4 @@ Frontend Pull Request Big Data Version Control DNS Routing Cloud Functions IoT V
 JWT Server Response OAuth Load Balancing Docker Event-driven Architecture Automation Framework Big Data Distributed Systems Serverless Dream big and dare to fail. Performance
 Neural Networks Code Review Docker API Algorithm JavaScript Automation
 RabbitMQ Scalability Kubernetes JavaScript Testing Containerization To be the best, you must be able to handle the worst. Database Indexing Serverless Machine Learning Happiness is not something ready made. It comes from your own actions.
+Edge Computing Server Response To be the best, you must be able to handle the worst. Event-driven Architecture Data Science DNS Routing Performance A/B Testing Deployment Message Queue Algorithm Stay hungry, stay foolish.
