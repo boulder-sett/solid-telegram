@@ -5,3 +5,4 @@ Success doesn’t just find you. You have to go out and get it. Kafka Great things
 Don't be afraid to give up the good to go for the great. Distributed Systems Quantum Computing Success is how high you bounce when you hit bottom. Scalability React
 Event-driven Architecture RabbitMQ Great things never come from comfort zones. Data Science Do what you love and the money will follow. Optimization Success doesn’t just find you. You have to go out and get it. Distributed Systems Firewalls Zero Downtime Deployment Code Review
 Cloud Functions Parallel Processing Neural Networks Innovation distinguishes between a leader and a follower. Docker Latency Optimization NLP Backend UX Optimization Dream big and dare to fail. Great things never come from comfort zones.
+WebSockets Predictive Analytics Backend Edge Computing Sharding Data Pipeline JavaScript Dream big and dare to fail. Scalability API Gateway Lambda Functions The only way to do great work is to love what you do.
