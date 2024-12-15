@@ -7,3 +7,4 @@ Cache Invalidation Cloud Algorithm Data Pipeline Work hard in silence, let your 
 Artificial Intelligence Machine Learning Backend Zero Downtime Deployment Edge Computing RabbitMQ JWT Frontend Deployment A/B Testing React Content Delivery Network Container Orchestration
 Distributed Systems API Content Delivery Network Zero Downtime Deployment DNS Routing Simplicity is the ultimate sophistication. JavaScript Agile Predictive Analytics Blockchain
 Neural Networks Difficult roads often lead to beautiful destinations. A/B Testing Code Review Kubernetes Machine Learning GraphQL Testing API Dream big and dare to fail. Load Balancing
+Blockchain Security A/B Testing Zero Downtime Deployment Docker Pull Request Lambda Functions Deployment Backend
