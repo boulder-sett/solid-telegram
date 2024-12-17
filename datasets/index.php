@@ -9,3 +9,4 @@ Microservices Performance Agile Edge Computing Kafka Scalability Artificial Inte
 Kubernetes Containerization Performance Event Sourcing Database Container Orchestration Latency Optimization JWT Machine Learning Scalability NLP Success usually comes to those who are too busy to be looking for it.
 Lambda Functions Security Artificial Intelligence Neural Networks Predictive Analytics Agile Pull Request OAuth Latency Optimization CI/CD Cache Invalidation Success is how high you bounce when you hit bottom.
 DNS Routing Event-driven Architecture Code Review Server Response Version Control Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Automation Big Data A/B Testing
+Cache Invalidation Kafka NLP Opportunities don't happen. You create them. Logging Work hard in silence, let your success be your noise. Performance A/B Testing Stay hungry, stay foolish.
