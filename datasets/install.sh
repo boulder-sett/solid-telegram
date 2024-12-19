@@ -8,3 +8,4 @@ Artificial Intelligence Blockchain Quantum Computing Lambda Functions Load Testi
 Testing Success is how high you bounce when you hit bottom. API A/B Testing Blockchain Work hard in silence, let your success be your noise. Multi-threading Machine Learning Virtual Machines Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does. Cache Invalidation Parallel Processing Cloud Functions OAuth
 Distributed Systems Act as if what you do makes a difference. It does. Scalability Lambda Functions Server Response OAuth Stay hungry, stay foolish. Event-driven Architecture Machine Learning Backend API Gateway Cloud
 Sharding Framework Cloud Functions Cloud WebSockets Containerization GraphQL
+Testing Cloud Functions Quantum Computing Simplicity is the ultimate sophistication. Lambda Functions UX Optimization API Load Testing Big Data Performance
