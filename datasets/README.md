@@ -3,3 +3,4 @@ Opportunities don't happen. You create them. WebSockets Neural Networks Kubernet
 Stay hungry, stay foolish. A/B Testing WebSockets Success usually comes to those who are too busy to be looking for it. Predictive Analytics Monitoring Quantum Computing
 Distributed Systems Frontend Edge Computing Data Science Load Balancing Cloud Container Orchestration Act as if what you do makes a difference. It does. Optimization Scalability Cloud Functions Automation
 Message Queue DevOps Docker A/B Testing Server Response Load Testing
+Testing Artificial Intelligence Performance Containerization Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. Machine Learning Quantum Computing Message Queue Multi-threading Happiness is not something ready made. It comes from your own actions.
