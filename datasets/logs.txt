@@ -5,3 +5,4 @@ Work hard in silence, let your success be your noise. Backend IoT Cloud To be th
 UX Optimization Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. Work hard in silence, let your success be your noise. Optimization Algorithm Do what you love and the money will follow. Predictive Analytics Backend NLP
 Work hard in silence, let your success be your noise. NLP Optimization OAuth Microservices Cloud I find that the harder I work, the more luck I seem to have. Machine Learning DevOps RabbitMQ Security Data Science
 Multi-threading Distributed Systems Load Balancing Load Testing Agile
+Kafka Logging Dream big and dare to fail. Zero Downtime Deployment IoT Distributed Systems Parallel Processing I find that the harder I work, the more luck I seem to have. Pull Request Innovation distinguishes between a leader and a follower. Automation

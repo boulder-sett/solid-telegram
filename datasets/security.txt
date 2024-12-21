@@ -2,3 +2,4 @@ Data Pipeline Parallel Processing Database Indexing JavaScript A/B Testing Conte
 Performance DNS Routing Data Science Stay hungry, stay foolish. UX Optimization Zero Downtime Deployment Latency Optimization Blockchain Replica Set
 OAuth Sharding Monitoring Multi-threading Do what you love and the money will follow. Scalability Edge Computing
 UX Optimization Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Dream big and dare to fail. Edge Computing API
+Containerization Distributed Systems Frontend Quantum Computing I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. API JavaScript Happiness is not something ready made. It comes from your own actions.
