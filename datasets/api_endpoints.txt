@@ -6,3 +6,4 @@ Distributed Systems Success doesn’t just find you. You have to go out and get it
 Great things never come from comfort zones. Innovation distinguishes between a leader and a follower. Security Docker Machine Learning Parallel Processing WebSockets JavaScript API Logging Blockchain Kafka Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Artificial Intelligence
 Success doesn’t just find you. You have to go out and get it. Database Indexing Zero Downtime Deployment Data Science Virtual Machines DevOps OAuth Backend Stay hungry, stay foolish. RabbitMQ
 Kafka Don't be afraid to give up the good to go for the great. Neural Networks Artificial Intelligence Message Queue Success is not in what you have, but who you are. Data Pipeline Event-driven Architecture OAuth Framework Testing Automation
+RabbitMQ Success doesn’t just find you. You have to go out and get it. Edge Computing Cloud Functions NLP
