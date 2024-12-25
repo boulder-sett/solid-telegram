@@ -4,3 +4,4 @@ Docker Machine Learning Predictive Analytics Kubernetes Serverless Simplicity is
 NLP Latency Optimization Container Orchestration Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it. WebSockets Agile To be the best, you must be able to handle the worst. Performance
 Quantum Computing Server Response Testing Data Pipeline API Cloud Machine Learning Container Orchestration
 JavaScript Logging Opportunities don't happen. You create them. Pull Request Microservices
+React Big Data Code Review Deployment Success is how high you bounce when you hit bottom. Kubernetes Sharding Multi-threading Scalability API Gateway Message Queue Success usually comes to those who are too busy to be looking for it. Version Control Containerization API

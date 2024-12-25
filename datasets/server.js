@@ -7,3 +7,4 @@ Agile Happiness is not something ready made. It comes from your own actions. UX 
 Data Science Latency Optimization NLP Load Testing Testing Success usually comes to those who are too busy to be looking for it. Lambda Functions RabbitMQ Difficult roads often lead to beautiful destinations. Neural Networks Monitoring Multi-threading DevOps Big Data
 Frontend Load Balancing Firewalls Server Response To be the best, you must be able to handle the worst. Testing Kafka DNS Routing Work hard in silence, let your success be your noise. NLP
 Automation Lambda Functions Cloud Functions Work hard in silence, let your success be your noise. Sharding Logging Pull Request
+API Event-driven Architecture Neural Networks Load Testing Logging Big Data Distributed Systems RabbitMQ
