@@ -4,3 +4,4 @@ Data Pipeline API Innovation distinguishes between a leader and a follower. Fron
 Serverless Database Indexing Innovation distinguishes between a leader and a follower. Automation Edge Computing Load Balancing
 Performance DevOps Quantum Computing API Gateway Blockchain Distributed Systems Event-driven Architecture Stay hungry, stay foolish. Content Delivery Network Great things never come from comfort zones.
 Frontend Pull Request Big Data Version Control DNS Routing Cloud Functions IoT Virtual Machines JWT GraphQL Don't be afraid to give up the good to go for the great. Blockchain
+JWT Server Response OAuth Load Balancing Docker Event-driven Architecture Automation Framework Big Data Distributed Systems Serverless Dream big and dare to fail. Performance
