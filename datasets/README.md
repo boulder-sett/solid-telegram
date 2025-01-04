@@ -2,3 +2,4 @@ Do what you love and the money will follow. Framework The only way to do great w
 Opportunities don't happen. You create them. WebSockets Neural Networks Kubernetes Containerization Security Success is how high you bounce when you hit bottom. Success doesn’t just find you. You have to go out and get it. Frontend
 Stay hungry, stay foolish. A/B Testing WebSockets Success usually comes to those who are too busy to be looking for it. Predictive Analytics Monitoring Quantum Computing
 Distributed Systems Frontend Edge Computing Data Science Load Balancing Cloud Container Orchestration Act as if what you do makes a difference. It does. Optimization Scalability Cloud Functions Automation
+Message Queue DevOps Docker A/B Testing Server Response Load Testing
