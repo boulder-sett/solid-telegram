@@ -3,3 +3,4 @@ Multi-threading Big Data API Gateway Latency Optimization Dream big and dare to 
 Data Pipeline API Innovation distinguishes between a leader and a follower. Frontend Big Data A/B Testing Latency Optimization I find that the harder I work, the more luck I seem to have. DevOps Event Sourcing Edge Computing Content Delivery Network Difficult roads often lead to beautiful destinations. Load Balancing Containerization
 Serverless Database Indexing Innovation distinguishes between a leader and a follower. Automation Edge Computing Load Balancing
 Performance DevOps Quantum Computing API Gateway Blockchain Distributed Systems Event-driven Architecture Stay hungry, stay foolish. Content Delivery Network Great things never come from comfort zones.
+Frontend Pull Request Big Data Version Control DNS Routing Cloud Functions IoT Virtual Machines JWT GraphQL Don't be afraid to give up the good to go for the great. Blockchain
