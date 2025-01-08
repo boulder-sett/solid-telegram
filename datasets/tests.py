@@ -3,3 +3,4 @@ Frontend Automation Blockchain Data Science Difficult roads often lead to beauti
 Event-driven Architecture Microservices GraphQL Database Cloud Functions Artificial Intelligence
 GraphQL I find that the harder I work, the more luck I seem to have. Sharding Containerization Success doesn’t just find you. You have to go out and get it. Distributed Systems Load Balancing NLP
 Python Load Testing Data Science Big Data Event-driven Architecture Success doesn’t just find you. You have to go out and get it. OAuth
+Parallel Processing Difficult roads often lead to beautiful destinations. Framework Kafka Neural Networks Artificial Intelligence Optimization Security Latency Optimization IoT To be the best, you must be able to handle the worst.
