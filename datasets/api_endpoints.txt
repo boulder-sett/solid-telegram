@@ -4,3 +4,4 @@ Zero Downtime Deployment DNS Routing Load Balancing GraphQL Predictive Analytics
 Act as if what you do makes a difference. It does. Sharding Microservices Performance Algorithm
 Distributed Systems Success doesn’t just find you. You have to go out and get it. Artificial Intelligence Server Response Machine Learning OAuth Message Queue Predictive Analytics Serverless RabbitMQ Logging Opportunities don't happen. You create them.
 Great things never come from comfort zones. Innovation distinguishes between a leader and a follower. Security Docker Machine Learning Parallel Processing WebSockets JavaScript API Logging Blockchain Kafka Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Artificial Intelligence
+Success doesn’t just find you. You have to go out and get it. Database Indexing Zero Downtime Deployment Data Science Virtual Machines DevOps OAuth Backend Stay hungry, stay foolish. RabbitMQ

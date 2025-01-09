@@ -2,3 +2,4 @@ Sharding Testing Success is how high you bounce when you hit bottom. To be the b
 A/B Testing CI/CD Machine Learning Logging Frontend Success is not in what you have, but who you are. Predictive Analytics Kubernetes
 Python Latency Optimization Code Review Neural Networks Message Queue Lambda Functions Load Balancing Agile Load Testing DevOps Microservices Pull Request Act as if what you do makes a difference. It does. Replica Set
 Work hard in silence, let your success be your noise. Backend IoT Cloud To be the best, you must be able to handle the worst. NLP Don't be afraid to give up the good to go for the great. DNS Routing Code Review
+UX Optimization Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. Work hard in silence, let your success be your noise. Optimization Algorithm Do what you love and the money will follow. Predictive Analytics Backend NLP
