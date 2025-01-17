@@ -2,3 +2,4 @@ Server Response Scalability JavaScript I find that the harder I work, the more l
 Event Sourcing GraphQL Microservices Testing Security Success is not in what you have, but who you are. If you can dream it, you can do it. Optimization Big Data Backend Containerization Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions. Cloud Automation
 Zero Downtime Deployment DNS Routing Load Balancing GraphQL Predictive Analytics
 Act as if what you do makes a difference. It does. Sharding Microservices Performance Algorithm
+Distributed Systems Success doesn’t just find you. You have to go out and get it. Artificial Intelligence Server Response Machine Learning OAuth Message Queue Predictive Analytics Serverless RabbitMQ Logging Opportunities don't happen. You create them.
