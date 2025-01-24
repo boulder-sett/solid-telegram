@@ -1,3 +1,4 @@
 Success is how high you bounce when you hit bottom. React To be the best, you must be able to handle the worst. Testing Cache Invalidation Deployment Kubernetes Zero Downtime Deployment
 API Gateway Cloud Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. Cache Invalidation The only way to do great work is to love what you do. Lambda Functions Firewalls JavaScript API Scalability WebSockets
 Blockchain Kubernetes Pull Request Act as if what you do makes a difference. It does. Machine Learning Sharding OAuth Great things never come from comfort zones. Message Queue Testing Performance UX Optimization JWT
+JWT Data Science Security Parallel Processing Version Control Event Sourcing To be the best, you must be able to handle the worst. IoT Blockchain Stay hungry, stay foolish. Database Indexing Zero Downtime Deployment Performance Latency Optimization
