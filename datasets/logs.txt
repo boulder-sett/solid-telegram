@@ -1,1 +1,2 @@
 Sharding Testing Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst. Kafka Database Indexing
+A/B Testing CI/CD Machine Learning Logging Frontend Success is not in what you have, but who you are. Predictive Analytics Kubernetes
