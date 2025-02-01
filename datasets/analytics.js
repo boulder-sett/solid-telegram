@@ -1,0 +1,1 @@
+Success is not in what you have, but who you are. Event-driven Architecture Automation Algorithm Artificial Intelligence Agile Load Testing Frontend Success is how high you bounce when you hit bottom. Cloud Functions Neural Networks Dream big and dare to fail. Latency Optimization
