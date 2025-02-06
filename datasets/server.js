@@ -1,1 +1,2 @@
 Algorithm Replica Set Agile Kafka Blockchain
+DevOps IoT Dream big and dare to fail. Automation I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Agile To be the best, you must be able to handle the worst. Security Success is how high you bounce when you hit bottom. Backend Data Pipeline Distributed Systems UX Optimization Success doesn’t just find you. You have to go out and get it.
