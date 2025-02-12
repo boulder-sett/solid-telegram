@@ -1,0 +1,1 @@
+Do what you love and the money will follow. Framework The only way to do great work is to love what you do. Microservices Great things never come from comfort zones. Testing Simplicity is the ultimate sophistication. Kubernetes Agile Kafka Cloud Lambda Functions Scalability Success doesn’t just find you. You have to go out and get it. Distributed Systems
